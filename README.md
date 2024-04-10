@@ -45,3 +45,10 @@ Friday는 감정형(F)을 위한 Diary입니다.
 - [SKT - KoBERT](https://github.com/SKTBrain/KoBERT)
 - [KoBERT Blog with Hugging Face](https://complexoftaste.tistory.com/2)
 - [KoBERT Blog - How to recommend music](https://github.com/boostcampaitech5/level3_recsys_productserving-recsys-12)
+
+# Presentations
+- [Friday.pptx](https://github.com/wjcldply/friday/files/14934620/Friday.pptx)
+
+# Demo
+- https://github.com/wjcldply/friday/assets/58078984/8b600d1b-6f8d-4677-92d1-4e28c8643682
+
