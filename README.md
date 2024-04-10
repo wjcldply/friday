@@ -31,6 +31,12 @@ Friday는 감정형(F)을 위한 Diary입니다.
 # 3. 서비스 아키텍쳐
 ![제목을 입력해주세요_-001](https://github.com/wjcldply/friday/assets/76810149/21e93ea6-ae32-4c8b-bfea-30ddf73b7f27)
 
+# Presentations
+- [Friday.pptx](https://github.com/wjcldply/friday/files/14934620/Friday.pptx)
+
+# Demo
+https://github.com/wjcldply/friday/assets/58078984/16000a9a-4d36-4d3b-b53e-510f427c3d9f
+
 # Sources
 - [Songys - Chatbot Data](https://github.com/songys/Chatbot_data)
 - [AI Hub - 감성대화말뭉치](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)
@@ -45,10 +51,3 @@ Friday는 감정형(F)을 위한 Diary입니다.
 - [SKT - KoBERT](https://github.com/SKTBrain/KoBERT)
 - [KoBERT Blog with Hugging Face](https://complexoftaste.tistory.com/2)
 - [KoBERT Blog - How to recommend music](https://github.com/boostcampaitech5/level3_recsys_productserving-recsys-12)
-
-# Presentations
-- [Friday.pptx](https://github.com/wjcldply/friday/files/14934620/Friday.pptx)
-
-# Demo
-- https://github.com/wjcldply/friday/assets/58078984/8b600d1b-6f8d-4677-92d1-4e28c8643682
-
